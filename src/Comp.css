@@ -1,0 +1,28 @@
+* {
+    font-family: Poppins,sans-serif;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(173, 189, 189);
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul {
+    list-style-type: disc;
+}
+#bt1{
+    background-color: rgb(90, 152, 168);
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+#bt2{
+    background-color: rgb(90, 152, 168);
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    
+}
